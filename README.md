@@ -33,9 +33,9 @@
     
 <p align="center"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronysalem&show_icons=true&locale=en&layout=compact" alt="ronysalem" /></p> &nbsp;
 
-<img  src="https://github-readme-stats.vercel.app/api?username=ronysalem&show_icons=true&locale=en" alt="ronysalem" />
+<img  align="left" src="https://github-readme-stats.vercel.app/api?username=ronysalem&show_icons=true&locale=en" alt="ronysalem" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ronysalem&" alt="ronysalem" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ronysalem&" alt="ronysalem" />
 </div>
 
 ### 🔝 Top Contributed Repo 
