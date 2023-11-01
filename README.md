@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Machine Learning Engineer From Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronysalem&label=Profile%20views&color=0e75b6&style=flat" alt="ronysalem" /> </p>
-<p align="right"> <img src="https://github.com/ronysalem/ronysalem/blob/main/giphy.gif" alt="Coding" width="300" /> </p>
+<img src="https://github.com/ronysalem/ronysalem/blob/main/giphy.gif" alt="Coding" width="400" />
 
 - 🔭 I’m currently working on [Words Digest](https://github.com/atlno1fan/Word-Digest)
 
